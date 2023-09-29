@@ -184,7 +184,7 @@ public class Exam_2 {
                     break;
                 case 4 :
                     
-                    
+                    System.out.println();
                     if (number == '1') {
                         list.display();
                     }
